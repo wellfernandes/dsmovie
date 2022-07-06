@@ -1,7 +1,22 @@
-# DSMovie
+# DSmovie
+
+![dsmovie](img/dsmovie.png)
+
 Projeto dsmovie desenvolvido durante o evento Semana Spring React. 
 
-# descrição
-<p align="center">Projeto web desenvolvido utilizando Java com Spring Boot no back end e TypeScript com ReactJS no front end.</p>
+Resolução de teste aplicado pela empresa Target Sistemas. 
 
-Projeto em Produção: https://welliton-dsmovie.netlify.app
+## 🚀 Descrição
+
+Projeto web desenvolvido utilizando Java com Spring Boot no back end e TypeScript com ReactJS no front end.
+O deploy da aplicação foi realizado na plataforma Heroku utilizando Netlify.
+
+
+### 👓 Visualizar
+
+A aplicação dsmovie pode ser acessada pelo link:
+
+* [dsmovie](https://welliton-dsmovie.netlify.app) - Aplicação dsmovie em produção. 
+
+---
+[Linkedin](https://www.linkedin.com/in/wellitonfernandes/) 😊
