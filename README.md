@@ -14,7 +14,7 @@ O deploy da aplicação foi realizado na plataforma Heroku utilizando Netlify.
 
 A aplicação dsmovie pode ser acessada pelo link:
 
-* [dsmovie](https://welliton-dsmovie.netlify.app) - Aplicação dsmovie em produção. 
+* [dsmovie](https://welliton-dsmovie.netlify.app) - Aplicação dsmovie em produção. (Aplicação insdisponível temporariamente)
 
 ---
 [Linkedin](https://www.linkedin.com/in/wellitonfernandes/) 😊
